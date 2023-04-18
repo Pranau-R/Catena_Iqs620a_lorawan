@@ -34,10 +34,11 @@ Author:
 
 #include <cmath>
 #include <type_traits>
-#include <Catena_Iqs620a.h>
+#include <MCCI_Catena_Iqs620a.h>
 #include <stm32_eeprom.h>
 
 using namespace McciCatena;
+using namespace McciCatenaIqs620a;
 
 /****************************************************************************\
 |
